@@ -1,5 +1,5 @@
 # IJPORnumpref
-Replication Materials for "Putting a Number on Preferences: How Numerical Attitudes Are Shaped by Ideology and Equivalency Framing." Published in International Journal of Public Opinion Research.
+Replication Materials for "Putting a Number on Preferences: How Numerical Attitudes Are Shaped by Ideology and Equivalency Framing." Published in International Journal of Public Opinion Research. Co-authored with Rasmus Tue Pedersen.
 
 This repository contains the following files:
 
